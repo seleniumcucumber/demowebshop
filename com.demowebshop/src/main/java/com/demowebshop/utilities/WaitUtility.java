@@ -25,6 +25,7 @@ public class WaitUtility {
 		} else {
 			try {
 				throw new Exception("Invalid Locator");
+				
 
 			} catch (Exception e) {
 

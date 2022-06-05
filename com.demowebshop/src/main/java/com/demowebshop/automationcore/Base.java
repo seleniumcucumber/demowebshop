@@ -27,6 +27,7 @@ public class Base {
 	public FileInputStream fs;
 	
 	
+	
 	/**Base Constructor**/
 	
 	public Base(){
